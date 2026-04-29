@@ -1,0 +1,176 @@
+country,payment_method,psp,success_rate,base_cost,percent_cost,latency_ms
+VND,Local Wallet,1vnpay,0.64,1.25,0.015,1500
+VND,Bank Transfer,1vnpay,0.64,1.25,0.015,1500
+VND,MoMo,1vnpay,0.64,1.25,0.015,1500
+VND,VietQR,1vnpay,0.64,1.25,0.015,1500
+VND,Local Wallet,awepay,0.62,1.25,0.015,1500
+VND,Bank Transfer,awepay,0.62,1.25,0.015,1500
+VND,MoMo,awepay,0.62,1.25,0.015,1500
+VND,VietQR,awepay,0.62,1.25,0.015,1500
+VND,Local Wallet,M2pay,0.6,1.25,0.015,1500
+VND,Bank Transfer,M2pay,0.6,1.25,0.015,1500
+VND,MoMo,M2pay,0.6,1.25,0.015,1500
+VND,VietQR,M2pay,0.6,1.25,0.015,1500
+THB,Thai QR,awepay,0.62,1.25,0.015,1500
+THB,Bank Transfer,awepay,0.62,1.25,0.015,1500
+THB,Thai QR,payok,0.74,1.75,0.015,1000
+THB,Bank Transfer,payok,0.74,1.75,0.015,1000
+THB,Thai QR,M2pay,0.6,1.25,0.015,1500
+THB,Bank Transfer,M2pay,0.6,1.25,0.015,1500
+MYR,FPX,awepay,0.62,1.25,0.015,1500
+MYR,DuitNow,awepay,0.62,1.25,0.015,1500
+MYR,FPX,M2pay,0.6,1.25,0.015,1500
+MYR,DuitNow,M2pay,0.6,1.25,0.015,1500
+IDR,Bank Transfer,awepay,0.62,1.25,0.015,1500
+IDR,QRIS,awepay,0.62,1.25,0.015,1500
+IDR,Ewallet,awepay,0.62,1.25,0.015,1500
+IDR,Dana,awepay,0.62,1.25,0.015,1500
+IDR,OVO,awepay,0.62,1.25,0.015,1500
+IDR,Bank Transfer,brick,0.62,1.25,0.015,1500
+IDR,QRIS,brick,0.62,1.25,0.015,1500
+IDR,Ewallet,brick,0.62,1.25,0.015,1500
+IDR,Dana,brick,0.62,1.25,0.015,1500
+IDR,OVO,brick,0.62,1.25,0.015,1500
+IDR,Bank Transfer,payok,0.74,1.75,0.015,1000
+IDR,QRIS,payok,0.74,1.75,0.015,1000
+IDR,Ewallet,payok,0.74,1.75,0.015,1000
+IDR,Dana,payok,0.74,1.75,0.015,1000
+IDR,OVO,payok,0.74,1.75,0.015,1000
+PHP,ShopeePay,Xendit,0.82,2.25,0.015,700
+PHP,GrabPay,Xendit,0.82,2.25,0.015,700
+PHP,GCash,Xendit,0.82,2.25,0.015,700
+PHP,QRPH,Xendit,0.82,2.25,0.015,700
+PHP,Bank Transfer,Xendit,0.82,2.25,0.015,700
+PHP,PayMaya,Xendit,0.82,2.25,0.015,700
+PHP,ShopeePay,paymongo,0.72,1.75,0.015,1000
+PHP,GrabPay,paymongo,0.72,1.75,0.015,1000
+PHP,GCash,paymongo,0.72,1.75,0.015,1000
+PHP,QRPH,paymongo,0.72,1.75,0.015,1000
+PHP,Bank Transfer,paymongo,0.72,1.75,0.015,1000
+PHP,PayMaya,paymongo,0.72,1.75,0.015,1000
+PHP,ShopeePay,Innovative,0.61,1.25,0.015,1500
+PHP,GrabPay,Innovative,0.61,1.25,0.015,1500
+PHP,GCash,Innovative,0.61,1.25,0.015,1500
+PHP,QRPH,Innovative,0.61,1.25,0.015,1500
+PHP,Bank Transfer,Innovative,0.61,1.25,0.015,1500
+PHP,PayMaya,Innovative,0.61,1.25,0.015,1500
+PHP,ShopeePay,wingpay,0.6,1.25,0.015,1500
+PHP,GrabPay,wingpay,0.6,1.25,0.015,1500
+PHP,GCash,wingpay,0.6,1.25,0.015,1500
+PHP,QRPH,wingpay,0.6,1.25,0.015,1500
+PHP,Bank Transfer,wingpay,0.6,1.25,0.015,1500
+PHP,PayMaya,wingpay,0.6,1.25,0.015,1500
+PHP,ShopeePay,CoinsPH,0.58,1.25,0.015,1500
+PHP,GrabPay,CoinsPH,0.58,1.25,0.015,1500
+PHP,GCash,CoinsPH,0.58,1.25,0.015,1500
+PHP,QRPH,CoinsPH,0.58,1.25,0.015,1500
+PHP,Bank Transfer,CoinsPH,0.58,1.25,0.015,1500
+PHP,PayMaya,CoinsPH,0.58,1.25,0.015,1500
+JPY,Bank Transfer,Shimatomo,0.59,1.25,0.015,1500
+AUD,PayID,Banxa,0.58,1.25,0.015,1500
+NGN,Bank Transfer,Fincra,0.8,2.25,0.015,700
+NGN,Bank Transfer,korapay,0.78,2.25,0.015,700
+NGN,Bank Transfer,yellowcard,0.7,1.75,0.015,1000
+NGN,Bank Transfer,Passpoint,0.76,2.25,0.015,700
+KES,M-Pesa,Fincra,0.8,2.25,0.015,700
+KES,Mobile Money,Fincra,0.8,2.25,0.015,700
+KES,M-Pesa,korapay,0.78,2.25,0.015,700
+KES,Mobile Money,korapay,0.78,2.25,0.015,700
+KES,M-Pesa,yellowcard,0.7,1.75,0.015,1000
+KES,Mobile Money,yellowcard,0.7,1.75,0.015,1000
+KES,M-Pesa,Sasapay,0.58,1.25,0.015,1500
+KES,Mobile Money,Sasapay,0.58,1.25,0.015,1500
+KES,M-Pesa,Passpoint,0.76,2.25,0.015,700
+KES,Mobile Money,Passpoint,0.76,2.25,0.015,700
+GHS,MTN,korapay,0.78,2.25,0.015,700
+GHS,Mobile Money,korapay,0.78,2.25,0.015,700
+GHS,MTN,Bitlipa,0.62,1.25,0.015,1500
+GHS,Mobile Money,Bitlipa,0.62,1.25,0.015,1500
+TZS,Bank Transfer,Bitlipa,0.62,1.25,0.015,1500
+TZS,Mobile Money,Bitlipa,0.62,1.25,0.015,1500
+TZS,Airtel,Bitlipa,0.62,1.25,0.015,1500
+TZS,Vodacom M-Pesa,Bitlipa,0.62,1.25,0.015,1500
+TZS,Bank Transfer,relworx,0.72,1.75,0.015,1000
+TZS,Mobile Money,relworx,0.72,1.75,0.015,1000
+TZS,Airtel,relworx,0.72,1.75,0.015,1000
+TZS,Vodacom M-Pesa,relworx,0.72,1.75,0.015,1000
+TZS,Bank Transfer,yellowcard,0.7,1.75,0.015,1000
+TZS,Mobile Money,yellowcard,0.7,1.75,0.015,1000
+TZS,Airtel,yellowcard,0.7,1.75,0.015,1000
+TZS,Vodacom M-Pesa,yellowcard,0.7,1.75,0.015,1000
+TZS,Bank Transfer,payaza,0.57,1.25,0.015,1500
+TZS,Mobile Money,payaza,0.57,1.25,0.015,1500
+TZS,Airtel,payaza,0.57,1.25,0.015,1500
+TZS,Vodacom M-Pesa,payaza,0.57,1.25,0.015,1500
+TZS,Bank Transfer,Dusupay,0.57,1.25,0.015,1500
+TZS,Mobile Money,Dusupay,0.57,1.25,0.015,1500
+TZS,Airtel,Dusupay,0.57,1.25,0.015,1500
+TZS,Vodacom M-Pesa,Dusupay,0.57,1.25,0.015,1500
+UGX,MTN,Bitlipa,0.62,1.25,0.015,1500
+UGX,Airtel,Bitlipa,0.62,1.25,0.015,1500
+UGX,Mobile Money,Bitlipa,0.62,1.25,0.015,1500
+UGX,MTN,relworx,0.72,1.75,0.015,1000
+UGX,Airtel,relworx,0.72,1.75,0.015,1000
+UGX,Mobile Money,relworx,0.72,1.75,0.015,1000
+UGX,MTN,payaza,0.57,1.25,0.015,1500
+UGX,Airtel,payaza,0.57,1.25,0.015,1500
+UGX,Mobile Money,payaza,0.57,1.25,0.015,1500
+UGX,MTN,Dusupay,0.57,1.25,0.015,1500
+UGX,Airtel,Dusupay,0.57,1.25,0.015,1500
+UGX,Mobile Money,Dusupay,0.57,1.25,0.015,1500
+UGX,MTN,Fincra,0.8,2.25,0.015,700
+UGX,Airtel,Fincra,0.8,2.25,0.015,700
+UGX,Mobile Money,Fincra,0.8,2.25,0.015,700
+ZAR,Bank Transfer,Bitlipa,0.62,1.25,0.015,1500
+XOF,Wave,payaza,0.57,1.25,0.015,1500
+EGP,Bank Transfer,Afriex,0.56,1.25,0.015,1500
+XAF,MTN,Afriex,0.56,1.25,0.015,1500
+EUR,Bank Transfer,altpay,0.63,1.25,0.015,1500
+EUR,SEPA Bank Transfer,altpay,0.63,1.25,0.015,1500
+EUR,Bank Transfer,openpayd,0.68,1.75,0.015,1000
+EUR,SEPA Bank Transfer,openpayd,0.68,1.75,0.015,1000
+EUR,Bank Transfer,clearjunction,0.67,1.75,0.015,1000
+EUR,SEPA Bank Transfer,clearjunction,0.67,1.75,0.015,1000
+PLN,BLIK,Vimoni,0.6,1.25,0.015,1500
+MXN,SPEI,bitso,0.68,1.75,0.015,1000
+MXN,CODI,bitso,0.68,1.75,0.015,1000
+MXN,Bank Transfer,bitso,0.68,1.75,0.015,1000
+MXN,SPEI,directa24,0.7,1.75,0.015,1000
+MXN,CODI,directa24,0.7,1.75,0.015,1000
+MXN,Bank Transfer,directa24,0.7,1.75,0.015,1000
+MXN,SPEI,tazapay,0.67,1.75,0.015,1000
+MXN,CODI,tazapay,0.67,1.75,0.015,1000
+MXN,Bank Transfer,tazapay,0.67,1.75,0.015,1000
+MXN,SPEI,Alfred,0.66,1.75,0.015,1000
+MXN,CODI,Alfred,0.66,1.75,0.015,1000
+MXN,Bank Transfer,Alfred,0.66,1.75,0.015,1000
+COP,PSE,bitso,0.68,1.75,0.015,1000
+COP,Bank Transfer,bitso,0.68,1.75,0.015,1000
+COP,PSE,cobre,0.61,1.25,0.015,1500
+COP,Bank Transfer,cobre,0.61,1.25,0.015,1500
+COP,PSE,directa24,0.7,1.75,0.015,1000
+COP,Bank Transfer,directa24,0.7,1.75,0.015,1000
+COP,PSE,Alfred,0.66,1.75,0.015,1000
+COP,Bank Transfer,Alfred,0.66,1.75,0.015,1000
+BRL,PIX,bitso,0.68,1.75,0.015,1000
+BRL,PIX QR,bitso,0.68,1.75,0.015,1000
+BRL,Bank Transfer,bitso,0.68,1.75,0.015,1000
+BRL,PIX,directa24,0.7,1.75,0.015,1000
+BRL,PIX QR,directa24,0.7,1.75,0.015,1000
+BRL,Bank Transfer,directa24,0.7,1.75,0.015,1000
+BRL,PIX,tazapay,0.67,1.75,0.015,1000
+BRL,PIX QR,tazapay,0.67,1.75,0.015,1000
+BRL,Bank Transfer,tazapay,0.67,1.75,0.015,1000
+BRL,PIX,BRLA,0.59,1.25,0.015,1500
+BRL,PIX QR,BRLA,0.59,1.25,0.015,1500
+BRL,Bank Transfer,BRLA,0.59,1.25,0.015,1500
+BRL,PIX,Alfred,0.66,1.75,0.015,1000
+BRL,PIX QR,Alfred,0.66,1.75,0.015,1000
+BRL,Bank Transfer,Alfred,0.66,1.75,0.015,1000
+ARS,Bank Transfer,bitso,0.68,1.75,0.015,1000
+CLP,Bank Transfer,directa24,0.7,1.75,0.015,1000
+PEN,Bank Transfer,directa24,0.7,1.75,0.015,1000
+CAD,Interac Bank Transfer,apaylo,0.6,1.25,0.015,1500
+GLOBAL,Card,checkout,0.8,2.25,0.015,700
+GLOBAL,Apple Pay,checkout,0.8,2.25,0.015,700
+GLOBAL,Google Pay,checkout,0.8,2.25,0.015,700
