@@ -1,8 +1,5 @@
 import os
-import sys
 import time
-
-sys.path.append(os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'crypto_payment_intelligence', 'src'))
 
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
