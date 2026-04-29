@@ -1,10 +1,5 @@
 {
-  "$schema": "https://schema.train.tech/railway.schema.json",
-  "build": {
-    "builder": "NIXPACKS"
-  },
   "deploy": {
-    "startCommand": "uvicorn api:app --host 0.0.0.0 --port ${PORT:-8000}",
-    "restartPolicyType": "ON_FAILURE"
+    "startCommand": "uvicorn main:app --host 0.0.0.0 --port $PORT"
   }
 }
